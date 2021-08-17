@@ -1,8 +1,7 @@
 # <h1>hooked</h1>:sunglasses: 
 
-> blockquote This is a very long line that will still be quoted properly
+> Less Go!!!!
 
-![alt text](image.jpg)
 
 Inline `code` has `back-ticks around` it.
 
