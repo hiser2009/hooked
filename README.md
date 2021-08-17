@@ -1,9 +1,5 @@
 # <h1>hooked</h1>:sunglasses: 
 
-> blockquote This is a very long line that will still be quoted properly
-
-![alt text](image.jpg)
-
 Inline `code` has `back-ticks around` it.
 
 This is a very basic **repo** with deployment to with 3 envs. 
