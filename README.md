@@ -1,8 +1,5 @@
 # <h1>hooked</h1>:sunglasses: 
 
-> Less Go!!!!
-
-
 Inline `code` has `back-ticks around` it.
 
 This is a very basic **repo** with deployment to with 3 envs. 
